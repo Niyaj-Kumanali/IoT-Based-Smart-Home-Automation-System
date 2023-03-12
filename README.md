@@ -9,6 +9,7 @@
 <h2> Project Name :</h2>
 <h1 align = 'center'>IoT Based Smart Home Automation System</br></h1>
 </br>
+
 <h2>Introduction :</h2>
 <ul>
     <li>
@@ -35,7 +36,8 @@
 
 
 <h2>Working :</h2>
-    <ul>
+<img align="right" src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/flowchart.png" alt="Flowchart" width=40% height="400" >
+<ul>
     <li>
         <p>The load can be controlled and monitored using a application. The user can send commands through the allotted IP and these commands fed to Wi-Fi module. The Wi-Fi module is configured to access internet using provided wireless modem. The commands received by a Wi-Fi module are executed by a program within a Wi-Fi module. The Wi-Fi module is interfaced to Octocoupler through the loads are turned ON and OFF based on commands. The loads status (ON or OFF) will be displayed on the application.</p>
     </li>
@@ -46,18 +48,28 @@
         <p>In a same we can control this by a two way switch and also by a google assistant. If we say "hey google turn ON reley 1"this commend go to blynk app through IFTTT website and relay 1 will turned ON. It also works for turning OFF of relay 1.</p>
     </li>
 </ul>
-<div>
-    <h3>Flowchart :</h3>
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/flowchart.png" alt="Flowchart" width="300" height="300">
-    <h3>Block Diagram of the System :</h3>
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/blockdiagram.png" alt="Block Diagram of System" width="500" height="300">
-    <h3>Connection Diagram :</h3>
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/connectiondiagram.png" alt="Connection Diagram" width="500" height="300">
-    <h3>Application Interface :</h3>
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/applicationinterface.png" alt="Application Interface" width="500" height="300">
-    <h3>ON & OFF states :</h3>
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width="500" height="300">
-    <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width="500" height="300">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div align = "center">
+    
+<h3 align = "left">Block Diagram of the System :</h3>
+<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/blockdiagram.png" alt="Block Diagram of System" width="500" height="300">
+
+<h3 align = "left">Connection Diagram :</h3>
+<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/connectiondiagram.png" alt="Connection Diagram" width="500" height="300">
+
+<h3 align = "left">Application Interface :</h3>
+<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/applicationinterface.png" alt="Application Interface" width=70% height=70%>
+
+<h3 align = "left">ON & OFF states :</h3>
+<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width="500" height="300">
+<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width="500" height="300">
+
 </div>
 <h2>Conclusion :</h2>
 <p>&emsp;&emsp;Home automation is connecting all the functional elements of your home to a network (Internet) and putting it to work for you. From lighting to air-conditioning, from television to door-locks, you can now control, monitor and track your home from anywhere in the world, using your smartphone, computer or tablet device.</p>
