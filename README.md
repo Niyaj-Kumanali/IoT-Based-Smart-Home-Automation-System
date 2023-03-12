@@ -33,7 +33,23 @@
     
 </ul>
 
-
+<h2>Hardware and software Requirements :</h2>
+<ul>
+    <li>Hardware :</li>
+    <ul>
+        <li>NodeMCU8266</li>
+        <li>4 Channel Relay</li>
+        <li>Two way switches</li>
+        <li>5V Adapter</li>
+        <li>Jumper wires</li>
+        <li>Connecting wires</li>
+    </ul>
+    <li>Software :</li>
+    <ul>
+        <li>IFTTT</li>
+        <li>Blynk App</li>
+    </ul>
+</ul>
 
 <h2>Working :</h2>
 <img align="right" src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/flowchart.png" alt="Flowchart" width=40% height="400" >
