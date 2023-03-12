@@ -51,9 +51,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 <div align = "center">
     
@@ -66,10 +63,14 @@
 <h3 align = "left">Application Interface :</h3>
 <img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/applicationinterface.png" alt="Application Interface" width=70% height=70%>
 
-<h3 align = "left">ON & OFF states :</h3>
-<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width="500" height="300">
-<img src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width="500" height="300">
-
 </div>
+<div>
+<h3>ON & OFF states :</h3>
+<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width="450" height="300">
+<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width="450" height="300">
+</div>
+</br>
+</br>
+
 <h2>Conclusion :</h2>
 <p>&emsp;&emsp;Home automation is connecting all the functional elements of your home to a network (Internet) and putting it to work for you. From lighting to air-conditioning, from television to door-locks, you can now control, monitor and track your home from anywhere in the world, using your smartphone, computer or tablet device.</p>
