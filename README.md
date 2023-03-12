@@ -66,8 +66,8 @@
 </div>
 <div>
 <h3>ON & OFF states :</h3>
-<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width="450" height="300">
-<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width="450" height="300">
+<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates.png" alt="On and Off states" width=45% height="300">
+<img  src="https://github.com/Niyaj-Kumanali/IoT-Based-Smart-Home-Automation-System/blob/main/onoffstates2.png" alt="On and Off states 2" width=45% height="300">
 </div>
 </br>
 </br>
